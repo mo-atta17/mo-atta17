@@ -26,13 +26,11 @@ An aspiring RTL Design, ASIC, and Hardware Verification Engineer. I build optimi
 * 🧱 **Components:** Designed active and passive agents to handle hardware interrupt lines and register-mapped configurations over an AHB bus interface.
 * 🎯 **Automation:** Built a functional golden model predictor and scoreboard tracking prioritize-masking logic and thresholding targets.
 
-
-### 🧠 TPU-Inspired Neural Network Accelerator SoC Peripheral
-*An ASIC-focused SoC peripheral designed for hardware-accelerated neural network inference.*
-* 🧮 **Core Architecture:** Features an $8\times8$ weight-stationary systolic array with 64 parallel processing elements utilizing custom 8-bit quantized integer arithmetic for maximized power efficiency.
-* 🚌 **Bus Interfacing:** Personally designed the **ARM AMBA AHB Subordinate Interface** supporting register mapping, burst transfers, and multi-cycle SRAM transaction handshaking.
-* ⚙️ **Execution Pipeline:** Fully hardware-implemented execution paths for matrix multiplication, bias addition, and activation layers (ReLU, Leaky ReLU, Binary Step, and Linear).
-
+### 🧮 Hardware Implementation of a Systolic Array Accelerator
+*Designed and implemented a high-throughput hardware Systolic Array architecture optimized for parallel workloads.*
+* ⚙️ **Core Architecture:** Developed a modular 2D grid of Processing Elements (PEs) featuring localized Multiply-Accumulate (MAC) units, pipelined data registers, and control logic for efficient data reuse.
+* ⏳ **Timing Synchronization:** Managed strict hardware timing and synchronized data flow across rows and columns to maximize throughput while minimizing global memory bandwidth bottlenecks.
+* 🧪 **Verification:** Validated architectural correctness and performance efficiency using hardware simulation tools to analyze clock cycle counts and data processing latency.
 
 ---
 
