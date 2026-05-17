@@ -14,8 +14,7 @@ An aspiring RTL Design, ASIC, and Hardware Verification Engineer. I build optimi
 
 ## 🚀 Featured Projects
 
-
-### 💻 Multicore RISC-V Processor with MSI Coherence
+### 💻 [Multicore RISC-V Processor with MSI Coherence](https://github.com/mo-atta17/Multicore-Processor-ECE437.git)
 *Developed a high-performance dual-core hardware design in SystemVerilog.*
 * 🏆 **Leaderboard Performance:** Secured **1st place** in Dual-Core, **2nd place** in Final Optimization, and **3rd place** in Single-Core Pipeline out of the entire course leaderboard.
 * 🔗 **Coherence & Memory:** Integrated a direct-mapped Instruction Cache (I-cache) and an upgraded Data Cache (D-cache) unit to hardware-support the MSI coherence protocol managed by a central bus controller.
@@ -34,17 +33,9 @@ An aspiring RTL Design, ASIC, and Hardware Verification Engineer. I build optimi
 * 🚌 **Bus Interfacing:** Personally designed the **ARM AMBA AHB Subordinate Interface** supporting register mapping, burst transfers, and multi-cycle SRAM transaction handshaking.
 * ⚙️ **Execution Pipeline:** Fully hardware-implemented execution paths for matrix multiplication, bias addition, and activation layers (ReLU, Leaky ReLU, Binary Step, and Linear).
 
----
-
-## 📊 GitHub Metrics
-
-<p align="left">
-  <img src="[[https://github-readme-stats.vercel.app/api?username=Mohamed-Atta](https://github.com/mo-atta17/Multicore-Processor-ECE437.git)&show_icons=true&theme=tokyonight&hide_border=true](https://github.com/mo-atta17/Multicore-Processor-ECE437.git)" height="150" alt="Multicore RISC-V Processor with MSI Coherence" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Atta&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" height="150" alt="languages card" />
-</p>
 
 ---
 
 ## 🌐 Connect with Me
-* 👔 **LinkedIn:** [linkedin.com/in/mohamed-atta-913b9829a](www.linkedin.com/in/mohamed-atta-913b9829a)
+* 👔 **LinkedIn:** [linkedin.com/in/mohamed-atta-913b9829a](https://www.linkedin.com/in/mohamed-atta-913b9829a)
 * 📧 **Email:** [moh1772004@gmail.com](mailto:moh1772004@gmail.com)
