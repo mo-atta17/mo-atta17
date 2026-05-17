@@ -5,19 +5,14 @@ An aspiring RTL Design, ASIC, and Hardware Verification Engineer. I build optimi
 
 ---
 
-## 🛠️ Technical Arsenal
+## 🛠️ Skills
 
-| Category | Technologies / Frameworks |
-| :--- | :--- |
-| **Hardware Description** | `SystemVerilog` `Verilog` `RISC-V ISA` `Assembly` |
-| **Verification & Testing** | `UVM (Universal Verification Methodology)` `Questa / ModelSim` `Testbench Architecture` |
-| **Protocols & Interfaces** | `ARM AMBA AHB` `MSI Cache Coherence` `LR/SC Synchronization` |
-| **Embedded & Systems** | `STM32 (ARM Cortex-M)` `ESP32-CAM` `OpenCV` `C/C++` |
-| **Data & Machine Learning** | `Python` `SQL` `XGBoost` `LightGBM` |
-
+* **Languages:** SystemVerilog, Verilog, RISC-V Assembly, C++
+* **Methodologies & Tools:** UVM, Testbench Architecture, Questa, Vivado
+* **Protocols & Hardware:** ARM AMBA AHB, MSI Cache Coherence, Systolic Arrays
 ---
 
-## 🚀 Featured Hardware Projects
+## 🚀 Featured Projects
 
 
 ### 💻 Multicore RISC-V Processor with MSI Coherence
@@ -44,12 +39,12 @@ An aspiring RTL Design, ASIC, and Hardware Verification Engineer. I build optimi
 ## 📊 GitHub Metrics
 
 <p align="left">
-  <img src="[https://github-readme-stats.vercel.app/api?username=Mohamed-Atta&show_icons=true&theme=tokyonight&hide_border=true](https://github.com/mo-atta17/Multicore-Processor-ECE437.git)" height="150" alt="Multicore RISC-V Processor with MSI Coherence" />
+  <img src="[[https://github-readme-stats.vercel.app/api?username=Mohamed-Atta](https://github.com/mo-atta17/Multicore-Processor-ECE437.git)&show_icons=true&theme=tokyonight&hide_border=true](https://github.com/mo-atta17/Multicore-Processor-ECE437.git)" height="150" alt="Multicore RISC-V Processor with MSI Coherence" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Atta&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" height="150" alt="languages card" />
 </p>
 
 ---
 
 ## 🌐 Connect with Me
-* 👔 **LinkedIn:** [linkedin.com/in/mohamed-khaled-913b9829a/](https://linkedin.com/in/mohamed-khaled-913b9829a/)
+* 👔 **LinkedIn:** [linkedin.com/in/mohamed-atta-913b9829a](www.linkedin.com/in/mohamed-atta-913b9829a)
 * 📧 **Email:** [moh1772004@gmail.com](mailto:moh1772004@gmail.com)
