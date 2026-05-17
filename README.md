@@ -19,32 +19,33 @@ An aspiring RTL Design, ASIC, and Hardware Verification Engineer. I build optimi
 
 ## 🚀 Featured Hardware Projects
 
-### 💻 [Multicore RISC-V Processor with MSI Coherence](https://github.com/YOUR-USERNAME/YOUR-REPO-NAME)
+
+### 💻 Multicore RISC-V Processor with MSI Coherence
 *Developed a high-performance dual-core hardware design in SystemVerilog.*
-* 🏆 **Leaderboard:** Secured **1st place** in Dual-Core, **2nd place** in Final Optimization, and **3rd place** in Single-Core Pipeline.
-* 🧠 **Architecture:** Integrated a 64B direct-mapped I-cache and 128B 2-way set-associative D-cache with write-back/write-allocate policies.
-* 🔗 **Coherence:** Implemented a hardware MSI protocol managed by a central bus controller supporting atomic LR/SC operations.
-* 🛠️ **Tools:** Validated timing, hazards, and multi-cycle execution latencies using **Questa**.
+* 🏆 **Leaderboard Performance:** Secured **1st place** in Dual-Core, **2nd place** in Final Optimization, and **3rd place** in Single-Core Pipeline out of the entire course leaderboard.
+* 🔗 **Coherence & Memory:** Integrated a direct-mapped Instruction Cache (I-cache) and an upgraded Data Cache (D-cache) unit to hardware-support the MSI coherence protocol managed by a central bus controller.
+* 🛠️ **Verification & Analysis:** Led the overall system debugging phase in **Questa**, resolving complex multi-cycle timing violations, data hazards, and core-synchronization race conditions.
 
-### ⚡ [TPU-Inspired Neural Network Accelerator](https://github.com/YOUR-USERNAME/YOUR-REPO-NAME)
-*An ASIC-focused SoC peripheral designed for hardware-accelerated neural network inference.*
-* 🧮 **Core:** Features an $8\times8$ weight-stationary systolic array with 64 parallel processing elements utilizing 8-bit quantized integer arithmetic.
-* 🚌 **Bus Interfacing:** Personally designed the **ARM AMBA AHB Subordinate Interface** supporting register mapping, burst transfers, and multi-cycle SRAM handshaking.
-* ⚙️ **Pipeline:** Fully hardware-implemented execution paths for matrix multiplication, bias addition, and activation layers (ReLU, Leaky ReLU).
-
-### 🔍 [UVM Verification of RISC-V PLIC](https://github.com/YOUR-USERNAME/YOUR-REPO-NAME)
+### 🔍 UVM Verification of RISC-V PLIC
 *A scalable, industrial-grade verification environment built to validate interrupt-handling logic.*
-* 🏗️ **Framework:** Constructed a structured UVM testbench environment in SystemVerilog.
-* 🧱 **Components:** Designed active/passive agents to drive hardware interrupt lines and register-mapped configurations over an AHB bus interface.
-* 🎯 **Automation:** Built a golden model predictor and scoreboard tracking prioritize-masking logic and thresholding targets.
+* 🏗️ **Framework:** Constructed a structured, modular UVM testbench environment in SystemVerilog.
+* 🧱 **Components:** Designed active and passive agents to handle hardware interrupt lines and register-mapped configurations over an AHB bus interface.
+* 🎯 **Automation:** Built a functional golden model predictor and scoreboard tracking prioritize-masking logic and thresholding targets.
+
+
+### 🧠 TPU-Inspired Neural Network Accelerator SoC Peripheral
+*An ASIC-focused SoC peripheral designed for hardware-accelerated neural network inference.*
+* 🧮 **Core Architecture:** Features an $8\times8$ weight-stationary systolic array with 64 parallel processing elements utilizing custom 8-bit quantized integer arithmetic for maximized power efficiency.
+* 🚌 **Bus Interfacing:** Personally designed the **ARM AMBA AHB Subordinate Interface** supporting register mapping, burst transfers, and multi-cycle SRAM transaction handshaking.
+* ⚙️ **Execution Pipeline:** Fully hardware-implemented execution paths for matrix multiplication, bias addition, and activation layers (ReLU, Leaky ReLU, Binary Step, and Linear).
 
 ---
 
 ## 📊 GitHub Metrics
 
 <p align="left">
-  <img src="[https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats card"](https://github.com/mo-atta17/Multicore-Processor-ECE437.git) />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" height="150" alt="languages card" />
+  <img src="[https://github-readme-stats.vercel.app/api?username=Mohamed-Atta&show_icons=true&theme=tokyonight&hide_border=true](https://github.com/mo-atta17/Multicore-Processor-ECE437.git)" height="150" alt="Multicore RISC-V Processor with MSI Coherence" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Atta&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" height="150" alt="languages card" />
 </p>
 
 ---
