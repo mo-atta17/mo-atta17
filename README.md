@@ -16,7 +16,7 @@ An aspiring RTL Design, ASIC, and Hardware Verification Engineer.
 
 ### 💻 [Multicore RISC-V Processor with MSI Coherence](https://github.com/mo-atta17/Multicore-Processor-ECE437.git)
 *Developed a high-performance dual-core hardware design in SystemVerilog.*
-* 🔗 **Coherence & Memory:**Designed and prototyped a dual-core pipelined RISC-V processor featuring a comprehensive cache hierarchy with
+* 🔗 **Coherence & Memory:** Designed and prototyped a dual-core pipelined RISC-V processor featuring a comprehensive cache hierarchy with
 Direct-mapped I-cache and 2-way set-associative D-cache.
 * 🛠️ **Verification & Analysis:** Led the overall system debugging phase in **Questa**, resolving complex multi-cycle timing violations, data hazards, and core-synchronization race conditions.
 * 🏆 **Leaderboard Performance:** The CPU placed 3rd in the pipeline benchmark, 1st in the caches benchmark, and 2nd in the multicore benchmark
