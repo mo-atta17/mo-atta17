@@ -1,7 +1,7 @@
 # Hi, I'm Mohamed Atta 👋
 
-### Electrical & Computer Engineering Student @ Purdue University & EUI
-An aspiring RTL Design, ASIC, and Hardware Verification Engineer. I build optimized digital pipelines, design low-power AI hardware accelerators, and architect robust UVM environments.
+### Electronics & Computer Engineering Student @ Purdue University & EUI
+An aspiring RTL Design, ASIC, and Hardware Verification Engineer. 
 
 ---
 
@@ -16,9 +16,11 @@ An aspiring RTL Design, ASIC, and Hardware Verification Engineer. I build optimi
 
 ### 💻 [Multicore RISC-V Processor with MSI Coherence](https://github.com/mo-atta17/Multicore-Processor-ECE437.git)
 *Developed a high-performance dual-core hardware design in SystemVerilog.*
-* 🏆 **Leaderboard Performance:** Secured **1st place** in Dual-Core, **2nd place** in Final Optimization, and **3rd place** in Single-Core Pipeline out of the entire course leaderboard.
-* 🔗 **Coherence & Memory:** Integrated a direct-mapped Instruction Cache (I-cache) and an upgraded Data Cache (D-cache) unit to hardware-support the MSI coherence protocol managed by a central bus controller.
+* 🔗 **Coherence & Memory:**Designed and prototyped a dual-core pipelined RISC-V processor featuring a comprehensive cache hierarchy with
+Direct-mapped I-cache and 2-way set-associative D-cache.
 * 🛠️ **Verification & Analysis:** Led the overall system debugging phase in **Questa**, resolving complex multi-cycle timing violations, data hazards, and core-synchronization race conditions.
+* 🏆 **Leaderboard Performance:** The CPU placed 3rd in the pipeline benchmark, 1st in the caches benchmark, and 2nd in the multicore benchmark
+across the course leaderboards.
 
 ### 🔍 UVM Verification of RISC-V PLIC
 *A scalable, industrial-grade verification environment built to validate interrupt-handling logic.*
