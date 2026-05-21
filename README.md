@@ -14,7 +14,7 @@ An aspiring RTL Design, ASIC, and Hardware Verification Engineer.
 
 ## 🚀 Featured Projects
 
-### 💻 [Multicore RISC-V Processor with MSI Coherence](https://github.com/mo-atta17/Multicore-Processor-ECE437.git)
+### 💻 [Multicore RISC-V Processor with MSI Coherence](https://github.com/aabougendia/ECE437_Processor_Design)
 *Developed a high-performance dual-core hardware design in SystemVerilog.*
 * 🔗 **Coherence & Memory:** Designed and prototyped a dual-core pipelined RISC-V processor featuring a comprehensive cache hierarchy with
 Direct-mapped I-cache and 2-way set-associative D-cache.
@@ -28,7 +28,7 @@ across the course leaderboards.
 * 🧱 **Components:** Designed active and passive agents to handle hardware interrupt lines and register-mapped configurations over an AHB bus interface.
 * 🎯 **Automation:** Built a functional golden model predictor and scoreboard tracking prioritize-masking logic and thresholding targets.
 
-### 🧮 Hardware Implementation of a Systolic Array Accelerator
+### 🧮 [Hardware Implementation of a Systolic Array Accelerator](https://github.com/aabougendia/ECE337_NN_Accelerator)
 *Designed and implemented a high-throughput hardware Systolic Array architecture optimized for parallel workloads.*
 * ⚙️ **Core Architecture:** Developed a modular 2D grid of Processing Elements (PEs) featuring localized Multiply-Accumulate (MAC) units, pipelined data registers, and control logic for efficient data reuse.
 * ⏳ **Timing Synchronization:** Managed strict hardware timing and synchronized data flow across rows and columns to maximize throughput while minimizing global memory bandwidth bottlenecks.
